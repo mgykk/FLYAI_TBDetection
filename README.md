@@ -10,7 +10,7 @@
 
 图像数据：
 
-![]()
+![https://github.com/mgykk/FLYAI_TBDetection/blob/master/data/107.jpg]()
 
 ## 数据处理方法
 
